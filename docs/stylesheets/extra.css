@@ -1,7 +1,7 @@
 :root>* {
   body {
     font-family: fantasy;
-    background: url("../imatges/01.png") no-repeat center center scroll ;
+    background: url("../images/01.png") no-repeat center center scroll ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size:cover;
