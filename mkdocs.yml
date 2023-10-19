@@ -2,10 +2,6 @@
 
 site_description: Master in Design for Emergent Futures
 site_author: Student Name
-repo_name: 'Name : Github Repo'
-site_url: https://fablabbcn.github.io/mdef-template/
-repo_url: 'https://github.com/fablabbcn/mdef-template'
-
 
 nav:
   - Home: index.md
