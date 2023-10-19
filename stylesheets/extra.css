@@ -1,20 +1,15 @@
 :root>* {
-  body {
-    font-family: fantasy;
-    background: url("../images/01.png") no-repeat center center scroll ;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size:cover;
-    background-size: cover;
-    color: rgb(231, 4, 4);
-  }
-  h2  {
-    font-family: times;
-    color: black;
-    text-align: center;
-  }
-}
 
+  --md-footer-bg-color: white;
+  --md-footer-fg-color: rgb(32, 32, 32);
+  --md-footer-bg-color--dark: white;
+  --md-footer-fg-color--lighter:  rgb(32, 32, 32);
+  --md-footer-fg-color--light:  rgb(32, 32, 32);
+  --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
+  --mdc-typography-font-family: 'Be Vietnam', sans-serif;
+  --md-typeset-a-color: rgb(12, 240, 190);
+
+}
 
 .hide-scroll-bar {
     -ms-overflow-style: none;
@@ -43,4 +38,15 @@
 .mdc-typography--body2 {
     font-weight: 300;
     font-size: 14px;
+}
+
+
+body {
+  font-family: fantasy;
+  background: url("../images/01.png") no-repeat center center scroll ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size:cover;
+  background-size: cover;
+  color: rgb(231, 4, 4);
 }
