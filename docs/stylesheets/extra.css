@@ -21,14 +21,14 @@
 
   .md-typeset .md-button--primary {
     border-width: 1px;
-    border-color: rgb(219, 219, 219);
+    border-color: rgb(171, 9, 9);
     border-radius: 4px;
   }
 
 .cardContent {
   padding: 16px;
   font-size: 16px;
-  color: rgb(32, 32, 32);
+  color: rgb(34, 255, 0);
 }
 
 .md-typeset h2 {
