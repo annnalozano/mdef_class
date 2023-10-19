@@ -30,13 +30,3 @@
     font-size: 14px;
 }
 
-
-body {
-  font-family: fantasy;
-  background: url("../images/01.png") no-repeat center center scroll ;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size:cover;
-  background-size: cover;
-  color: rgb(231, 4, 4);
-}
