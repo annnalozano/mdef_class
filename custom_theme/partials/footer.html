@@ -77,25 +77,7 @@
     </div>
   {% endif %}
 
-  <!-- Further information -->
-  <div class="md-footer-meta md-typeset">
-    <div class="md-footer-meta__inner md-grid">
-
-      <!-- Copyright and theme information -->
-      <div class="md-footer-copyright">
-  	    {%- if config.extra.license %}
-            <div class="md-footer-copyright__highlight">{{ config.extra.license }}</div>
-        {%- endif %}
-        {%- if config.extra.project %}
-	        {%- if config.extra.footer_logo %}
-		        <img style="margin-top: 20px" alt="{{config.extra.project}}" src="{{config.extra.footer_logo}}">
-	        {%- endif %}
-         		<p class="md-footer-copyright__highlight">{{ config.extra.project }}</p>
-        {%- endif %}
-        {%- if config.extra.project %}
-        {%- endif %}
-      </div>
-
+ 
       <!-- Social links -->
       {% block social %}
         {% include "partials/social.html" %}
