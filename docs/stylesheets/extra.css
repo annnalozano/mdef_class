@@ -9,16 +9,6 @@
   --mdc-typography-font-family: 'Be Vietnam', sans-serif;
   --md-typeset-a-color: rgb(12, 240, 190);
 
-}
-
-.hide-scroll-bar {
-    -ms-overflow-style: none;
-    scrollbar-width: none;
-  }
-  .hide-scroll-bar::-webkit-scrollbar {
-    display: none;
-  }
-
   .md-typeset .md-button--primary {
     border-width: 1px;
     border-color: rgb(171, 9, 9);
