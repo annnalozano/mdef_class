@@ -1,5 +1,5 @@
 # Replace the text below to customize your site
-site_name: annna - MDEF & Fab Lab Barcelona
+site_name: Hoyeslunesdelentejas - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
 site_author: Student Name
 copyright: Copyleft 2023 "Student Name" - GNU Free Documentation License
@@ -44,7 +44,7 @@ theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: green
+    primary: pink
     accent: purple
   font:
     # See available fonts at https://fonts.google.com/
